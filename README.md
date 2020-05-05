@@ -105,3 +105,7 @@ The URL of the GitHub repository
 
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+how to use
+# run npm i
+# run node.index.js
